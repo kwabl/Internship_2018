@@ -16,7 +16,7 @@ namespace MyBookTry
             MainPage = new NavigationPage(new MainPage()); 
 		}
 
-        ctor
+     
 
 		protected override void OnStart ()
 		{
